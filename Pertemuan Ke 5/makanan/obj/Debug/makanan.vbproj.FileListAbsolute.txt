@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\makanan\bin\Debug\makanan.exe.config
+C:\Users\acer\source\repos\makanan\bin\Debug\makanan.exe
+C:\Users\acer\source\repos\makanan\bin\Debug\makanan.pdb
+C:\Users\acer\source\repos\makanan\bin\Debug\makanan.xml
+C:\Users\acer\source\repos\makanan\obj\Debug\makanan.vbproj.AssemblyReference.cache
+C:\Users\acer\source\repos\makanan\obj\Debug\makanan.Form1.resources
+C:\Users\acer\source\repos\makanan\obj\Debug\makanan.Resources.resources
+C:\Users\acer\source\repos\makanan\obj\Debug\makanan.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\makanan\obj\Debug\makanan.vbproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\makanan\obj\Debug\makanan.exe
+C:\Users\acer\source\repos\makanan\obj\Debug\makanan.xml
+C:\Users\acer\source\repos\makanan\obj\Debug\makanan.pdb

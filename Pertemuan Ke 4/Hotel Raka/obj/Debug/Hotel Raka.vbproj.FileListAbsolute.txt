@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\Hotel Raka\bin\Debug\Hotel Raka.exe.config
+C:\Users\acer\source\repos\Hotel Raka\bin\Debug\Hotel Raka.exe
+C:\Users\acer\source\repos\Hotel Raka\bin\Debug\Hotel Raka.pdb
+C:\Users\acer\source\repos\Hotel Raka\bin\Debug\Hotel Raka.xml
+C:\Users\acer\source\repos\Hotel Raka\obj\Debug\Hotel Raka.vbproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Hotel Raka\obj\Debug\Hotel_Raka.Form1.resources
+C:\Users\acer\source\repos\Hotel Raka\obj\Debug\Hotel_Raka.Resources.resources
+C:\Users\acer\source\repos\Hotel Raka\obj\Debug\Hotel Raka.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\Hotel Raka\obj\Debug\Hotel Raka.vbproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Hotel Raka\obj\Debug\Hotel Raka.exe
+C:\Users\acer\source\repos\Hotel Raka\obj\Debug\Hotel Raka.xml
+C:\Users\acer\source\repos\Hotel Raka\obj\Debug\Hotel Raka.pdb
