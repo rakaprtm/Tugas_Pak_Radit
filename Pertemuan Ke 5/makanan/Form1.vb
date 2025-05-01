@@ -13,7 +13,7 @@
     Dim hargaMinuman As Integer
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Me.Text = "RESO RAKA ANUGERAH PRATAMA"
+        Me.Text = "RESTO RAKA ANUGERAH PRATAMA"
         Me.Size = New Size(400, 350)
 
         Dim lblMakanan As New Label With {.Text = "Pilih Makanan:", .Location = New Point(20, 20)}
@@ -111,7 +111,7 @@
             Case "Air Mineral"
                 hargaMinuman = 2000
         End Select
-        lblHargaMinuman.Text = "Rp. " & hargaMinuman.ToString("N0")
+        lblHargaMinuman.Text = "Rp.  " & hargaMinuman.ToString("N0")
     End Sub
 
     Private Sub chkMinuman_CheckedChanged(sender As Object, e As EventArgs)
