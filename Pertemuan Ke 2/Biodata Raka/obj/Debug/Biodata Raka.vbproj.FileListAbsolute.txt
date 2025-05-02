@@ -10,3 +10,15 @@ C:\Users\acer\source\repos\Biodata Raka\bin\Debug\Biodata Raka.xml
 C:\Users\acer\source\repos\Biodata Raka\obj\Debug\Biodata Raka.exe
 C:\Users\acer\source\repos\Biodata Raka\obj\Debug\Biodata Raka.xml
 C:\Users\acer\source\repos\Biodata Raka\obj\Debug\Biodata Raka.pdb
+C:\Users\acer\source\repos\Pertemuan Ke 2\Biodata Raka\bin\Debug\Biodata Raka.exe.config
+C:\Users\acer\source\repos\Pertemuan Ke 2\Biodata Raka\bin\Debug\Biodata Raka.exe
+C:\Users\acer\source\repos\Pertemuan Ke 2\Biodata Raka\bin\Debug\Biodata Raka.pdb
+C:\Users\acer\source\repos\Pertemuan Ke 2\Biodata Raka\bin\Debug\Biodata Raka.xml
+C:\Users\acer\source\repos\Pertemuan Ke 2\Biodata Raka\obj\Debug\Biodata Raka.vbproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Pertemuan Ke 2\Biodata Raka\obj\Debug\Biodata_Raka.Form1.resources
+C:\Users\acer\source\repos\Pertemuan Ke 2\Biodata Raka\obj\Debug\Biodata_Raka.Resources.resources
+C:\Users\acer\source\repos\Pertemuan Ke 2\Biodata Raka\obj\Debug\Biodata Raka.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\Pertemuan Ke 2\Biodata Raka\obj\Debug\Biodata Raka.vbproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Pertemuan Ke 2\Biodata Raka\obj\Debug\Biodata Raka.exe
+C:\Users\acer\source\repos\Pertemuan Ke 2\Biodata Raka\obj\Debug\Biodata Raka.xml
+C:\Users\acer\source\repos\Pertemuan Ke 2\Biodata Raka\obj\Debug\Biodata Raka.pdb

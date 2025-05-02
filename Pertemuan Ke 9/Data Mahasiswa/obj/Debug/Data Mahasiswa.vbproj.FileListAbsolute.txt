@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\Data Mahasiswa\bin\Debug\Data Mahasiswa.exe.config
+C:\Users\acer\source\repos\Data Mahasiswa\bin\Debug\Data Mahasiswa.exe
+C:\Users\acer\source\repos\Data Mahasiswa\bin\Debug\Data Mahasiswa.pdb
+C:\Users\acer\source\repos\Data Mahasiswa\bin\Debug\Data Mahasiswa.xml
+C:\Users\acer\source\repos\Data Mahasiswa\obj\Debug\Data Mahasiswa.vbproj.AssemblyReference.cache
+C:\Users\acer\source\repos\Data Mahasiswa\obj\Debug\Data_Mahasiswa.Form1.resources
+C:\Users\acer\source\repos\Data Mahasiswa\obj\Debug\Data_Mahasiswa.Resources.resources
+C:\Users\acer\source\repos\Data Mahasiswa\obj\Debug\Data Mahasiswa.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\Data Mahasiswa\obj\Debug\Data Mahasiswa.vbproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\Data Mahasiswa\obj\Debug\Data Mahasiswa.exe
+C:\Users\acer\source\repos\Data Mahasiswa\obj\Debug\Data Mahasiswa.xml
+C:\Users\acer\source\repos\Data Mahasiswa\obj\Debug\Data Mahasiswa.pdb
