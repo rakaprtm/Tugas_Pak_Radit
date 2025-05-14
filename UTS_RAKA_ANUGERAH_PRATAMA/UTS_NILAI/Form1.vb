@@ -1,25 +1,23 @@
 ﻿Imports System.Windows.Forms
 
-Public Class FormNilai
+Public Class Form1
     Inherits Form
 
-    ' Komponen UI
     Private txtNama, txtAbsensi, txtUTS, txtUAS As TextBox
     Private txtBobotAbsensi, txtBobotUTS, txtBobotUAS As TextBox
     Private txtTotal, txtAngka, txtHuruf, txtAnalisa As TextBox
     Private btnHitung, btnClear, btnSimpan As Button
 
     Public Sub New()
-        Me.Text = "Form Penilaian Mahasiswa"
-        Me.Size = New Size(600, 400)
+        Me.Text = "Nilai"
+        Me.Size = New Size(620, 400)
         Me.StartPosition = FormStartPosition.CenterScreen
 
-        ' Group Input
-        Dim grpInput As New GroupBox() With {.Text = "Input", .Location = New Point(20, 20), .Size = New Size(250, 150)}
-        txtNama = New TextBox() With {.Location = New Point(100, 20), .Width = 120}
-        txtAbsensi = New TextBox() With {.Location = New Point(100, 50), .Width = 120}
-        txtUTS = New TextBox() With {.Location = New Point(100, 80), .Width = 120}
-        txtUAS = New TextBox() With {.Location = New Point(100, 110), .Width = 120}
+        Dim grpInput As New GroupBox() With {.Text = "Input", .Location = New Point(20, 20), .Size = New Size(280, 150)}
+        txtNama = New TextBox() With {.Location = New Point(120, 20), .Width = 140}
+        txtAbsensi = New TextBox() With {.Location = New Point(120, 50), .Width = 140}
+        txtUTS = New TextBox() With {.Location = New Point(120, 80), .Width = 140}
+        txtUAS = New TextBox() With {.Location = New Point(120, 110), .Width = 140}
         grpInput.Controls.AddRange({
             New Label() With {.Text = "Nama", .Location = New Point(10, 20)},
             txtNama,
@@ -31,11 +29,10 @@ Public Class FormNilai
             txtUAS
         })
 
-        ' Group Output
-        Dim grpOutput As New GroupBox() With {.Text = "Output", .Location = New Point(20, 180), .Size = New Size(250, 100)}
-        txtAngka = New TextBox() With {.Location = New Point(130, 20), .ReadOnly = True}
-        txtHuruf = New TextBox() With {.Location = New Point(130, 45), .ReadOnly = True}
-        txtAnalisa = New TextBox() With {.Location = New Point(130, 70), .ReadOnly = True}
+        Dim grpOutput As New GroupBox() With {.Text = "Proses/Output", .Location = New Point(20, 180), .Size = New Size(280, 100)}
+        txtAngka = New TextBox() With {.Location = New Point(140, 20), .Width = 120, .ReadOnly = True}
+        txtHuruf = New TextBox() With {.Location = New Point(140, 45), .Width = 120, .ReadOnly = True}
+        txtAnalisa = New TextBox() With {.Location = New Point(140, 70), .Width = 120, .ReadOnly = True}
         grpOutput.Controls.AddRange({
             New Label() With {.Text = "Hasil Akhir Angka", .Location = New Point(10, 20)},
             txtAngka,
@@ -45,12 +42,11 @@ Public Class FormNilai
             txtAnalisa
         })
 
-        ' Group Bobot
-        Dim grpBobot As New GroupBox() With {.Text = "Bobot", .Location = New Point(300, 20), .Size = New Size(250, 150)}
-        txtBobotAbsensi = New TextBox() With {.Location = New Point(120, 20), .Width = 100, .Text = "10"}
-        txtBobotUTS = New TextBox() With {.Location = New Point(120, 50), .Width = 100, .Text = "40"}
-        txtBobotUAS = New TextBox() With {.Location = New Point(120, 80), .Width = 100, .Text = "50"}
-        txtTotal = New TextBox() With {.Location = New Point(120, 110), .Width = 100, .ReadOnly = True, .Text = "100"}
+        Dim grpBobot As New GroupBox() With {.Text = "Bobot", .Location = New Point(320, 20), .Size = New Size(270, 180)}
+        txtBobotAbsensi = New TextBox() With {.Location = New Point(130, 20), .Width = 110, .Text = "10"}
+        txtBobotUTS = New TextBox() With {.Location = New Point(130, 50), .Width = 110, .Text = "40"}
+        txtBobotUAS = New TextBox() With {.Location = New Point(130, 80), .Width = 110, .Text = "50"}
+        txtTotal = New TextBox() With {.Location = New Point(130, 110), .Width = 110, .ReadOnly = True, .Text = "100"}
         btnSimpan = New Button() With {.Text = "Simpan", .Location = New Point(80, 140)}
         AddHandler txtBobotAbsensi.TextChanged, AddressOf CekTotalBobot
         AddHandler txtBobotUTS.TextChanged, AddressOf CekTotalBobot
@@ -67,15 +63,13 @@ Public Class FormNilai
             btnSimpan
         })
 
-        ' Group Function
-        Dim grpFunc As New GroupBox() With {.Text = "Function", .Location = New Point(300, 190), .Size = New Size(250, 80)}
+        Dim grpFunc As New GroupBox() With {.Text = "Function", .Location = New Point(320, 220), .Size = New Size(270, 80)}
         btnHitung = New Button() With {.Text = "Hitung", .Location = New Point(20, 30), .Enabled = True}
-        btnClear = New Button() With {.Text = "Clear", .Location = New Point(130, 30)}
+        btnClear = New Button() With {.Text = "Clear", .Location = New Point(140, 30)}
         AddHandler btnHitung.Click, AddressOf HitungNilai
         AddHandler btnClear.Click, AddressOf ClearForm
         grpFunc.Controls.AddRange({btnHitung, btnClear})
 
-        ' Tambahkan semua ke form
         Me.Controls.AddRange({grpInput, grpOutput, grpBobot, grpFunc})
     End Sub
 

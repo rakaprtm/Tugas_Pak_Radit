@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\source\\repos\\UTS_RAKA_ANUGERAH_PRATAMA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2D42CA-64C1-4B85-9492-BA7C616C8E0D}|UTS_RAKA_ANUGERAH_PRATAMA.vbproj|c:\\users\\acer\\source\\repos\\uts_raka_anugerah_pratama\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9D2D42CA-64C1-4B85-9492-BA7C616C8E0D}|UTS_RAKA_ANUGERAH_PRATAMA.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D2D42CA-64C1-4B85-9492-BA7C616C8E0D}|UTS_RAKA_ANUGERAH_PRATAMA.vbproj|c:\\users\\acer\\source\\repos\\uts_raka_anugerah_pratama\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9D2D42CA-64C1-4B85-9492-BA7C616C8E0D}|UTS_RAKA_ANUGERAH_PRATAMA.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\UTS_RAKA_ANUGERAH_PRATAMA\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\UTS_RAKA_ANUGERAH_PRATAMA\\Form1.vb*",
+              "RelativeToolTip": "Form1.vb*",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwDcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-14T09:55:02.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\acer\\source\\repos\\UTS_RAKA_ANUGERAH_PRATAMA\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\acer\\source\\repos\\UTS_RAKA_ANUGERAH_PRATAMA\\Form1.vb [Design]*",
+              "RelativeToolTip": "Form1.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-05-14T09:54:56.819Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

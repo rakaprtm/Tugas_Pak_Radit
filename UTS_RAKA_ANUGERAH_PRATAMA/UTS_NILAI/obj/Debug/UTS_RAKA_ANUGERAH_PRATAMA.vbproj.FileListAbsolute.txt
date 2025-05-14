@@ -1,0 +1,12 @@
+C:\Users\acer\source\repos\UTS_RAKA_ANUGERAH_PRATAMA\bin\Debug\UTS_RAKA_ANUGERAH_PRATAMA.exe.config
+C:\Users\acer\source\repos\UTS_RAKA_ANUGERAH_PRATAMA\bin\Debug\UTS_RAKA_ANUGERAH_PRATAMA.exe
+C:\Users\acer\source\repos\UTS_RAKA_ANUGERAH_PRATAMA\bin\Debug\UTS_RAKA_ANUGERAH_PRATAMA.pdb
+C:\Users\acer\source\repos\UTS_RAKA_ANUGERAH_PRATAMA\bin\Debug\UTS_RAKA_ANUGERAH_PRATAMA.xml
+C:\Users\acer\source\repos\UTS_RAKA_ANUGERAH_PRATAMA\obj\Debug\UTS_RAKA_ANUGERAH_PRATAMA.vbproj.AssemblyReference.cache
+C:\Users\acer\source\repos\UTS_RAKA_ANUGERAH_PRATAMA\obj\Debug\UTS_RAKA_ANUGERAH_PRATAMA.Form1.resources
+C:\Users\acer\source\repos\UTS_RAKA_ANUGERAH_PRATAMA\obj\Debug\UTS_RAKA_ANUGERAH_PRATAMA.Resources.resources
+C:\Users\acer\source\repos\UTS_RAKA_ANUGERAH_PRATAMA\obj\Debug\UTS_RAKA_ANUGERAH_PRATAMA.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\UTS_RAKA_ANUGERAH_PRATAMA\obj\Debug\UTS_RAKA_ANUGERAH_PRATAMA.vbproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\UTS_RAKA_ANUGERAH_PRATAMA\obj\Debug\UTS_RAKA_ANUGERAH_PRATAMA.exe
+C:\Users\acer\source\repos\UTS_RAKA_ANUGERAH_PRATAMA\obj\Debug\UTS_RAKA_ANUGERAH_PRATAMA.xml
+C:\Users\acer\source\repos\UTS_RAKA_ANUGERAH_PRATAMA\obj\Debug\UTS_RAKA_ANUGERAH_PRATAMA.pdb
